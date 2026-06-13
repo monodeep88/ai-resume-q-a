@@ -1,0 +1,5 @@
+[
+  "tests/test_app.py::test_build_assistant_for_project_type",
+  "tests/test_app.py::test_description_mentions_subject",
+  "tests/test_app.py::test_generate_response_uses_real_agent_output"
+]
