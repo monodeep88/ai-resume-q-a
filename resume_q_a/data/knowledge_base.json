@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Resume Q&A overview",
+    "body": "Resume Q&A is a practical RAG assistant. It collects user intent, searches the local knowledge base, and returns a short answer with next actions."
+  },
+  {
+    "title": "User onboarding",
+    "body": "Ask for the user's goal, constraints, available files, and preferred output format. Keep answers specific, cite the matched source titles, and suggest one concrete next step."
+  },
+  {
+    "title": "Quality checklist",
+    "body": "A useful assistant should validate inputs, explain assumptions, handle empty requests, and provide deterministic output that can be covered by tests."
+  },
+  {
+    "title": "Escalation rule",
+    "body": "When confidence is low, ask one focused follow-up question. When confidence is high, produce a direct answer, a plan, and a validation checklist."
+  }
+]
