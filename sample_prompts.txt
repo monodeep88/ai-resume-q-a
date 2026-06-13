@@ -1,0 +1,4 @@
+help me plan a useful workflow
+what should I validate before shipping?
+calculate: 12 / 3 + 4
+csv: name,score\nAda,98\nGrace,95
